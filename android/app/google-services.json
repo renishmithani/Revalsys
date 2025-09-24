@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "789472873623",
+    "project_id": "testing-4a41a",
+    "storage_bucket": "testing-4a41a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789472873623:android:6db222da0bea9459df2dd2",
+        "android_client_info": {
+          "package_name": "com.revalsys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789472873623-re1bar82bfo4qk74nm7llsqlalfp826j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.revalsys",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "789472873623-top50ervv4fcci06mjpmq8gl1ng46c8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDaVmsR8Ox7QnrM6vrgX9ys3335V4ppw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789472873623-top50ervv4fcci06mjpmq8gl1ng46c8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
